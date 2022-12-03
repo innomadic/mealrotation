@@ -67,17 +67,21 @@ meals = {
 }
 
 
+print ("# Meals")
+
 for i in range(1, 53):
-    print(f"# Week {i}\n")
-    print(f" Day       | Breakfast                     | Lunch                                  | Dinner")
-    print(f"-----------|-------------------------------|----------------------------------------|--------------------------------")
+    print(f"## Week {i}\n")
+    print(f" Day       | Breakfast                      | Lunch                                  | Dinner")
+    print(f"-----------|--------------------------------|----------------------------------------|--------------------------------")
     for day, meal_choices in meals.items():
 
         breakfast = meal_choices["breakfast"][i%len(meal_choices["breakfast"])]
         lunch = meal_choices["lunch"][i%len(meal_choices["lunch"])]
         dinner = meal_choices["dinner"][i%len(meal_choices["dinner"])]
         print(
-            f' {day:9} |{breakfast:30} | {lunch:38} | {dinner:35}'
+            f' {day:9} | {breakfast:30} | {lunch:38} | {dinner:35}'
         )
     print('\n')
+    if i % 2 == 0:
+        print('<div style="page-break-after: always;"></div>\n')
 
