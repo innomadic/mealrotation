@@ -1,0 +1,83 @@
+{ "meals":{
+    "Saturday": {
+        "breakfast": ["Baked Oatmeal"],
+        "lunch": [
+            "Spaghetti",
+            "Grilled Chicken with Vegetables",
+            "Meatloaf",
+            "Biscuits and Gravy with eggs",
+            "Chicken Fried Rice"
+        ],
+        "dinner": ["Leftovers"]
+    },
+    "Sunday": {
+        "breakfast": ["Waffles with Eggs", "Pancakes with Eggs"],
+        "lunch": [
+            "Butter Chicken",
+            "Potato Curry",
+            "Chili",
+            "Potato Soup",
+            "Chicken Noodle Soup",
+            "Lentils",
+            "Lasagna",
+            "Soup Beans and Cornbread",
+            "Coconut beans"
+        ],
+        "dinner": ["Leftovers"]
+    },
+    "Monday": {
+        "breakfast": ["Crepes with Shakshuka/Eggs"],
+        "lunch": [
+            "Fried Chicken with Fries",
+            "Korean Fried Chicken",
+            "Chicken Parmesean"
+        ],
+        "dinner": ["Leftovers"]
+    },
+    "Tuesday": {
+        "breakfast": ["Toast with Jelly and Eggs", "Cinnamon Toast with Eggs"],
+        "lunch": ["Tacos", "Enchiladas", "Quesadillas"],
+        "dinner": ["Leftovers"]
+    },
+    "Wednesday": {
+        "breakfast": ["Hashbrowns with Eggs"],
+        "lunch": [
+            "Steak with Asian Slaw",
+            "Steak with Vegetables and Rolls",
+            "Steak with Baked/Mashed/Sweet Potatoes"
+        ],
+        "dinner": ["Leftovers"]
+    },
+    "Thursday": {
+        "breakfast": ["French Toast", "Biscuits with Gravy and Eggs"],
+        "lunch": ["Pizza", "Grilled Cheese", "Burgers with Fries", "Restaurant"],
+        "dinner": ["Leftovers"]
+    },
+    "Friday": {
+        "breakfast": ["Cinnamon Rolls", "Granola with Fruit and Yogurt"],
+        "lunch": [
+            "Restaurant",
+            "Popcorn, Apples, Snacks",
+            "Pita Chips, Vegetables, Hummus, Feta"
+        ],
+        "dinner": ["Leftovers"]
+    }
+},
+"sides" : [
+    "Salad",
+    "Asian Slaw",
+    "Roasted carrots, onions, beets",
+    "Sauerkraut",
+    "Grilled Zucchini",
+    "Squash",
+    "Mashed Potatoes",
+    "Baked Potatoes",
+    "Sweet Potatoes",
+    "Raw carrots and cucumbers",
+    "Roasted cabbage",
+    "French fries",
+    "Grean beans",
+    "Beans",
+    "Fruit Salad"
+]
+}
