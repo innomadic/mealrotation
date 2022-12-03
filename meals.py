@@ -11,6 +11,7 @@ meals = {
             "Grilled Chicken with Vegetables",
             "Meatloaf",
             "Biscuits and Gravy with eggs",
+            "Chicken Fried Rice",
         ],
         "dinner": ["Leftovers"],
     },
