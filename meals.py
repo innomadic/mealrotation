@@ -1,8 +1,8 @@
-'''
+"""
 Prepares a 52 week meal plan, rotating through lists of meals for each day.
 
 `python3 meals.py > plan.md`
-'''
+"""
 meals = {
     "Saturday": {
         "breakfast": ["Baked Oatmeal"],
@@ -12,7 +12,7 @@ meals = {
             "Meatloaf",
             "Biscuits and Gravy with eggs",
         ],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
     "Sunday": {
         "breakfast": ["Waffles with Eggs", "Pancakes with Eggs"],
@@ -24,8 +24,9 @@ meals = {
             "Chicken Noodle Soup",
             "Lentils",
             "Lasagna",
+            "Soup Beans and Cornbread",
         ],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
     "Monday": {
         "breakfast": ["Crepes with Shakshuka/Eggs"],
@@ -34,26 +35,26 @@ meals = {
             "Korean Fried Chicken",
             "Chicken Parmesean",
         ],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
     "Tuesday": {
         "breakfast": ["Toast with Jelly and Eggs", "Cinnamon Toast with Eggs"],
         "lunch": ["Tacos", "Enchiladas", "Quesadillas"],
-        'dinner': ['Leftovers'],
+        "dinner": ["Leftovers"],
     },
     "Wednesday": {
-        "breakfast": ["Hash browns with Eggs"],
+        "breakfast": ["Hashbrowns with Eggs"],
         "lunch": [
             "Steak with Asian Slaw",
             "Steak with Vegetables and Rolls",
             "Steak with Baked/Mashed/Sweet Potatoes",
         ],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
     "Thursday": {
         "breakfast": ["French Toast", "Biscuits with Gravy and Eggs"],
         "lunch": ["Pizza", "Grilled Cheese", "Burgers with Fries", "Restaurant"],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
     "Friday": {
         "breakfast": ["Cinnamon Rolls", "Granola with Fruit and Yogurt"],
@@ -62,26 +63,50 @@ meals = {
             "Popcorn, Apples, Snacks",
             "Pita Chips, Vegetables, Hummus, Feta",
         ],
-        'dinner': ['Leftovers']
+        "dinner": ["Leftovers"],
     },
 }
 
+sides = [
+    "Salad",
+    "Asian Slaw",
+    "Roasted carrots, onions, beets",
+    "Sauerkraut",
+    "Grilled Zucchini",
+    "Squash",
+    "Mashed Potatoes",
+    "Baked Potatoes",
+    "Sweet Potatoes",
+    "Raw carrots and cucumbers",
+    "Roasted cabbage",
+    "French fries",
+    "Grean beans",
+    "Beans",
+]
 
-print ("# Meals")
+
+print("# Sides\n")
+for side in sides:
+    print(f"* {side}")
+
+print('<div style="page-break-after: always;"></div>\n')
+
+print("# Meals\n")
 
 for i in range(1, 53):
     print(f"## Week {i}\n")
-    print(f" Day       | Breakfast                      | Lunch                                  | Dinner")
-    print(f"-----------|--------------------------------|----------------------------------------|--------------------------------")
+    print(
+        f" Day       | Breakfast                      | Lunch                                  | Dinner"
+    )
+    print(
+        f"-----------|--------------------------------|----------------------------------------|--------------------------------"
+    )
     for day, meal_choices in meals.items():
 
-        breakfast = meal_choices["breakfast"][i%len(meal_choices["breakfast"])]
-        lunch = meal_choices["lunch"][i%len(meal_choices["lunch"])]
-        dinner = meal_choices["dinner"][i%len(meal_choices["dinner"])]
-        print(
-            f' {day:9} | {breakfast:30} | {lunch:38} | {dinner:35}'
-        )
-    print('\n')
+        breakfast = meal_choices["breakfast"][i % len(meal_choices["breakfast"])]
+        lunch = meal_choices["lunch"][i % len(meal_choices["lunch"])]
+        dinner = meal_choices["dinner"][i % len(meal_choices["dinner"])]
+        print(f" {day:9} | {breakfast:30} | {lunch:38} | {dinner:35}")
+    print("\n")
     if i % 2 == 0:
         print('<div style="page-break-after: always;"></div>\n')
-

@@ -1,4 +1,23 @@
+# Sides
+
+* Salad
+* Asian Slaw
+* Roasted carrots, onions, beets
+* Sauerkraut
+* Grilled Zucchini
+* Squash
+* Mashed Potatoes
+* Baked Potatoes
+* Sweet Potatoes
+* Raw carrots and cucumbers
+* Roasted cabbage
+* French fries
+* Grean beans
+* Beans
+<div style="page-break-after: always;"></div>
+
 # Meals
+
 ## Week 1
 
  Day       | Breakfast                      | Lunch                                  | Dinner
@@ -7,7 +26,7 @@
  Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -20,7 +39,7 @@
  Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -35,7 +54,7 @@
  Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -48,7 +67,7 @@
  Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -63,7 +82,7 @@
  Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -76,7 +95,7 @@
  Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -88,10 +107,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Butter Chicken                         | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -101,10 +120,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Curry                           | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -116,10 +135,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chili                                  | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -129,10 +148,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Soup                            | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -144,10 +163,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -157,10 +176,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Lentils                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -172,10 +191,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lasagna                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -185,10 +204,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
+ Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -200,10 +219,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -213,10 +232,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -228,10 +247,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -241,10 +260,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -256,10 +275,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -269,10 +288,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -284,10 +303,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Butter Chicken                         | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -297,10 +316,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Curry                           | Leftovers                          
+ Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -312,10 +331,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chili                                  | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -325,10 +344,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Soup                            | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -340,10 +359,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -353,10 +372,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Lentils                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -368,10 +387,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lasagna                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -381,10 +400,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -396,10 +415,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -409,10 +428,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
+ Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -424,10 +443,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -437,10 +456,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -452,10 +471,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -465,10 +484,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -480,10 +499,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Butter Chicken                         | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -493,10 +512,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Curry                           | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -508,10 +527,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chili                                  | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -521,10 +540,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Soup                            | Leftovers                          
+ Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -536,10 +555,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -549,10 +568,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Lentils                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -564,10 +583,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lasagna                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -577,10 +596,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -592,10 +611,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -605,10 +624,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -620,10 +639,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -633,10 +652,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
+ Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -648,10 +667,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Lentils                                | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Soup Beans and Cornbread               | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -661,10 +680,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Lasagna                                | Leftovers                          
+ Sunday    | Waffles with Eggs              | Butter Chicken                         | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Restaurant                             | Leftovers                          
 
@@ -676,10 +695,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Grilled Chicken with Vegetables        | Leftovers                          
- Sunday    | Pancakes with Eggs             | Butter Chicken                         | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Curry                           | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Grilled Cheese                         | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Popcorn, Apples, Snacks                | Leftovers                          
 
@@ -689,10 +708,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Meatloaf                               | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Curry                           | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chili                                  | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Chicken Parmesean                      | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Quesadillas                            | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Baked/Mashed/Sweet Potatoes | Leftovers                          
  Thursday  | French Toast                   | Burgers with Fries                     | Leftovers                          
  Friday    | Cinnamon Rolls                 | Pita Chips, Vegetables, Hummus, Feta   | Leftovers                          
 
@@ -704,10 +723,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Biscuits and Gravy with eggs           | Leftovers                          
- Sunday    | Pancakes with Eggs             | Chili                                  | Leftovers                          
+ Sunday    | Pancakes with Eggs             | Potato Soup                            | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Fried Chicken with Fries               | Leftovers                          
  Tuesday   | Cinnamon Toast with Eggs       | Tacos                                  | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Asian Slaw                  | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Asian Slaw                  | Leftovers                          
  Thursday  | Biscuits with Gravy and Eggs   | Restaurant                             | Leftovers                          
  Friday    | Granola with Fruit and Yogurt  | Restaurant                             | Leftovers                          
 
@@ -717,10 +736,10 @@
  Day       | Breakfast                      | Lunch                                  | Dinner
 -----------|--------------------------------|----------------------------------------|--------------------------------
  Saturday  | Baked Oatmeal                  | Spaghetti                              | Leftovers                          
- Sunday    | Waffles with Eggs              | Potato Soup                            | Leftovers                          
+ Sunday    | Waffles with Eggs              | Chicken Noodle Soup                    | Leftovers                          
  Monday    | Crepes with Shakshuka/Eggs     | Korean Fried Chicken                   | Leftovers                          
  Tuesday   | Toast with Jelly and Eggs      | Enchiladas                             | Leftovers                          
- Wednesday | Hash browns with Eggs          | Steak with Vegetables and Rolls        | Leftovers                          
+ Wednesday | Hashbrowns with Eggs           | Steak with Vegetables and Rolls        | Leftovers                          
  Thursday  | French Toast                   | Pizza                                  | Leftovers                          
  Friday    | Cinnamon Rolls                 | Popcorn, Apples, Snacks                | Leftovers                          
 
