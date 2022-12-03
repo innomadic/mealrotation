@@ -1,3 +1,6 @@
+'''
+Prepares a 52 week meal plan, rotating through lists of meals for each day.
+'''
 meals = {
     "Saturday": {
         "breakfast": ["Baked oatmeal"],
