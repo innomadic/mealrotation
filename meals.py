@@ -21,7 +21,7 @@ meals = {
         ],
     },
     "Monday": {
-        "breakfast": ["Creps with Shakshuka/Eggs"],
+        "breakfast": ["Crepes with Shakshuka/Eggs"],
         "other": [
             "Fried Chicken with Fries",
             "Korean Fried Chicken",
