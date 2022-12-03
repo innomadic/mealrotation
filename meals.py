@@ -59,8 +59,6 @@ for i in range(1, 53):
     for day, meal_choices in meals.items():
         print(f"    {day}")
         print(
-            f'      Breakfast: {meal_choices["breakfast"][i%len(meal_choices["breakfast"])]}')
-        print(
-            f'      Lunch: {meal_choices["other"][i%len(meal_choices["other"])]}'
+            f'      Breakfast: {meal_choices["breakfast"][i%len(meal_choices["breakfast"])]}'
         )
-
+        print(f'      Lunch: {meal_choices["other"][i%len(meal_choices["other"])]}')
