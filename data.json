@@ -6,13 +6,13 @@
             ],
             "lunch": [
                 "Spaghetti",
-                "Grilled Chicken with Vegetables",
-                "Meatloaf",
-                "Biscuits and Gravy with eggs",
-                "Chicken Fried Rice"
+                "Lasagna",
+                "Grilled Chicken with Vegetables"
             ],
             "dinner": [
-                "Leftovers"
+                "Quiche",
+                "Biscuits and Gravy with eggs",
+                "Breakfast Casserole"
             ]
         },
         "Sunday": {
@@ -22,18 +22,11 @@
             ],
             "lunch": [
                 "Butter Chicken",
-                "Potato Curry",
-                "Chili",
-                "Potato Soup",
-                "Chicken Noodle Soup",
-                "Lentils",
-                "Lasagna",
-                "Soup Beans and Cornbread",
-                "Coconut beans",
-                "Quiche"
+                "Potato Curry"
             ],
             "dinner": [
-                "Leftovers"
+                "Meatloaf",
+                "Chicken Fried Rice"
             ]
         },
         "Monday": {
@@ -46,13 +39,16 @@
                 "Chicken Parmesean"
             ],
             "dinner": [
-                "Leftovers"
+                "Potato Soup",
+                "Chicken Noodle Soup",
+                "Vegetable Beef Soup"
             ]
         },
         "Tuesday": {
             "breakfast": [
                 "Toast with Jelly and Eggs",
-                "Cinnamon Toast with Eggs"
+                "Cinnamon Toast with Eggs",
+                "English Muffins with Eggs"
             ],
             "lunch": [
                 "Tacos",
@@ -75,7 +71,10 @@
                 "Steak with Baked/Mashed/Sweet Potatoes"
             ],
             "dinner": [
-                "Leftovers"
+                "Chili",
+                "Soup Beans and Cornbread",
+                "Coconut beans",
+                "Lentils"
             ]
         },
         "Thursday": {
@@ -84,27 +83,26 @@
                 "Biscuits with Gravy and Eggs"
             ],
             "lunch": [
-                "Pizza",
-                "Grilled Cheese",
-                "Burgers with Fries",
-                "Restaurant"
+                "Pizza"
             ],
             "dinner": [
-                "Leftovers"
+                "Grilled Cheese",
+                "Burgers with Fries"
             ]
         },
         "Friday": {
             "breakfast": [
                 "Cinnamon Rolls",
-                "Granola with Fruit and Yogurt"
+                "Granola with Fruit and Yogurt",
+                "Muffins"
             ],
             "lunch": [
+                "Leftovers"
+            ],
+            "dinner": [
                 "Restaurant",
                 "Popcorn, Apples, Snacks",
                 "Pita Chips, Vegetables, Hummus, Feta"
-            ],
-            "dinner": [
-                "Leftovers"
             ]
         }
     },
@@ -123,6 +121,7 @@
         "French fries",
         "Grean beans",
         "Beans",
-        "Fruit Salad"
+        "Fruit Salad",
+        "Cheese Sticks"
     ]
 }
